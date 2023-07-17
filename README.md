@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fa-aman
+- 👋 Hi, I’m Aman Choudhary aka @fa-aman 
 - 👀 I’m interested in all things DATA
 - 🌱 I’m currently learning and expanding my knowledge in Data Engineering
 - 💞️ I’m open for collaborations in data space
